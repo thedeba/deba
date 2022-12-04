@@ -384,7 +384,7 @@ img {
 
 /* ===== FOOTER =====*/
 .footer {
-  background-color: var(--first-color);
+  background-color: darkorchid;
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
